@@ -15,5 +15,5 @@ Note again that every agent exhibits these behaviors only locally. But if all ag
 
 Each bird (autonomous agent) in the flock is directed by a desire to stay close to the other birds it can see, to try its best to not run into them, and to move towards the desired location. These three behaviours, scaled, gives rise to the robust and well organized flock.
 
-In this project, I will try to demonstrate this behavior in a group of robots through a simple python simulation.
+In this project, I have demonstrated this behavior in a group of robots through a simple python simulation. Use the .html or the .ipynb files according to your convenience.
 
